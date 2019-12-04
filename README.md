@@ -1,2 +1,2 @@
 # hello-world
-a test of repository
+this is a test of creating branches
